@@ -11,8 +11,8 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">Watch Doraemon Movies and Episodes</summary>
-        <description lang="en">Stream Doraemon movies and episodes from DoraBash.com. Watch your favorite Doraemon content in multiple quality options (480p, 720p, 1080p).</description>
-        <license>MIT</license>
+        <description lang="en">Stream Doraemon movies from DoraBash.com. Personal use wrapper for TV-friendly viewing. Watch your favorite Doraemon content in multiple quality options (480p, 720p, 1080p).</description>
+        <license>Personal Use Only - See LICENSE.txt</license>
         <language></language>
         <forum></forum>
         <source></source>

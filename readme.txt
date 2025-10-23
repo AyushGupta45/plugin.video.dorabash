@@ -1,11 +1,10 @@
 # Dora Bash Kodi Addon
 
 ## Description
-Watch Doraemon movies and episodes from DoraBash.com directly in Kodi.
+Watch Doraemon movies from DoraBash.com directly in Kodi.
 
 ## Features
 - Browse Doraemon movies
-- Browse Doraemon episodes
 - Search for specific content
 - Multiple quality options (480p, 720p, 1080p)
 - Easy navigation
@@ -18,7 +17,7 @@ Watch Doraemon movies and episodes from DoraBash.com directly in Kodi.
 
 ## Usage
 - Navigate to Videos > Video Add-ons > Dora Bash
-- Choose from Movies, Episodes, or Search
+- Choose from Movies and Search
 - Select your content and enjoy!
 
 ## Requirements
