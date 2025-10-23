@@ -1,0 +1,7 @@
+v1.0.0 (2025-10-22)
+- Initial release
+- Browse Doraemon movies
+- Browse Doraemon episodes
+- Search functionality
+- Multiple quality options (480p, 720p, 1080p)
+- Stream from DoraBash.com

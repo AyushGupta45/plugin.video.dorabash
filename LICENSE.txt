@@ -1,0 +1,15 @@
+PERSONAL USE ONLY
+
+This Kodi addon was created for personal, non-commercial use to access content
+from dorabash.com through a TV-friendly interface.
+
+DISCLAIMER:
+- This addon is a web scraper wrapper for dorabash.com
+- The author does not own, host, or distribute any of the content
+- All content is streamed directly from dorabash.com
+- This project is NOT affiliated with or endorsed by dorabash.com
+- Users are responsible for ensuring their usage complies with local laws
+- No warranty or support is provided
+
+If you are the owner of dorabash.com and have concerns about this addon,
+please contact the repository owner to discuss removal.

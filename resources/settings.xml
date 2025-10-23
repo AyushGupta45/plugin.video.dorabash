@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Playback Settings">
+        <setting id="preferred_quality" type="select" label="Preferred Streaming Quality" default="720" values="480|720|1080" />
+        <setting type="sep"/>
+        <setting id="auto_play" type="bool" label="Auto-play videos" default="true" />
+    </category>
+    <category label="Advanced">
+        <setting id="timeout" type="slider" label="Connection Timeout (seconds)" default="15" range="5,1,30" option="int" />
+        <setting type="sep"/>
+        <setting id="debug_mode" type="bool" label="Enable Debug Logging" default="false" />
+    </category>
+</settings>
